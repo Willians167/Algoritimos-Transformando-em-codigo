@@ -1,0 +1,14 @@
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Ordenação_Bubble_Sort\bin\Debug\net8.0\Algoritmo_de_Ordenação_Bubble_Sort.exe
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Ordenação_Bubble_Sort\bin\Debug\net8.0\Algoritmo_de_Ordenação_Bubble_Sort.deps.json
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Ordenação_Bubble_Sort\bin\Debug\net8.0\Algoritmo_de_Ordenação_Bubble_Sort.runtimeconfig.json
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Ordenação_Bubble_Sort\bin\Debug\net8.0\Algoritmo_de_Ordenação_Bubble_Sort.dll
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Ordenação_Bubble_Sort\bin\Debug\net8.0\Algoritmo_de_Ordenação_Bubble_Sort.pdb
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Ordenação_Bubble_Sort\obj\Debug\net8.0\Algoritmo_de_Ordenação_Bubble_Sort.GeneratedMSBuildEditorConfig.editorconfig
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Ordenação_Bubble_Sort\obj\Debug\net8.0\Algoritmo_de_Ordenação_Bubble_Sort.AssemblyInfoInputs.cache
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Ordenação_Bubble_Sort\obj\Debug\net8.0\Algoritmo_de_Ordenação_Bubble_Sort.AssemblyInfo.cs
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Ordenação_Bubble_Sort\obj\Debug\net8.0\Algoritmo_de_Ordenação_Bubble_Sort.csproj.CoreCompileInputs.cache
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Ordenação_Bubble_Sort\obj\Debug\net8.0\Algoritmo_de_Ordenação_Bubble_Sort.dll
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Ordenação_Bubble_Sort\obj\Debug\net8.0\refint\Algoritmo_de_Ordenação_Bubble_Sort.dll
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Ordenação_Bubble_Sort\obj\Debug\net8.0\Algoritmo_de_Ordenação_Bubble_Sort.pdb
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Ordenação_Bubble_Sort\obj\Debug\net8.0\Algoritmo_de_Ordenação_Bubble_Sort.genruntimeconfig.cache
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Ordenação_Bubble_Sort\obj\Debug\net8.0\ref\Algoritmo_de_Ordenação_Bubble_Sort.dll
