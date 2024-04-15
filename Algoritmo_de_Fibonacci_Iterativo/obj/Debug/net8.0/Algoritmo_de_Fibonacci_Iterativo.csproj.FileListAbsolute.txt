@@ -1,0 +1,15 @@
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Fibonacci_Iterativo\bin\Debug\net8.0\Algoritmo_de_Fibonacci_Iterativo.exe
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Fibonacci_Iterativo\bin\Debug\net8.0\Algoritmo_de_Fibonacci_Iterativo.deps.json
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Fibonacci_Iterativo\bin\Debug\net8.0\Algoritmo_de_Fibonacci_Iterativo.runtimeconfig.json
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Fibonacci_Iterativo\bin\Debug\net8.0\Algoritmo_de_Fibonacci_Iterativo.dll
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Fibonacci_Iterativo\bin\Debug\net8.0\Algoritmo_de_Fibonacci_Iterativo.pdb
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Fibonacci_Iterativo\obj\Debug\net8.0\Algoritmo_de_Fibonacci_Iterativo.GeneratedMSBuildEditorConfig.editorconfig
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Fibonacci_Iterativo\obj\Debug\net8.0\Algoritmo_de_Fibonacci_Iterativo.AssemblyInfoInputs.cache
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Fibonacci_Iterativo\obj\Debug\net8.0\Algoritmo_de_Fibonacci_Iterativo.AssemblyInfo.cs
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Fibonacci_Iterativo\obj\Debug\net8.0\Algoritmo_de_Fibonacci_Iterativo.csproj.CoreCompileInputs.cache
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Fibonacci_Iterativo\obj\Debug\net8.0\Algoritmo_de_Fibonacci_Iterativo.sourcelink.json
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Fibonacci_Iterativo\obj\Debug\net8.0\Algoritmo_de_Fibonacci_Iterativo.dll
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Fibonacci_Iterativo\obj\Debug\net8.0\refint\Algoritmo_de_Fibonacci_Iterativo.dll
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Fibonacci_Iterativo\obj\Debug\net8.0\Algoritmo_de_Fibonacci_Iterativo.pdb
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Fibonacci_Iterativo\obj\Debug\net8.0\Algoritmo_de_Fibonacci_Iterativo.genruntimeconfig.cache
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritmo_de_Fibonacci_Iterativo\obj\Debug\net8.0\ref\Algoritmo_de_Fibonacci_Iterativo.dll

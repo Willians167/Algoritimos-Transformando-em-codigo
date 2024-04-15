@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Algoritmo_de_Fibonacci_Iterativo/1.0.0": {
+        "runtime": {
+          "Algoritmo_de_Fibonacci_Iterativo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algoritmo_de_Fibonacci_Iterativo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
