@@ -1,0 +1,15 @@
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Árvore_de_Busca_Binária\bin\Debug\net8.0\Árvore_de_Busca_Binária.exe
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Árvore_de_Busca_Binária\bin\Debug\net8.0\Árvore_de_Busca_Binária.deps.json
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Árvore_de_Busca_Binária\bin\Debug\net8.0\Árvore_de_Busca_Binária.runtimeconfig.json
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Árvore_de_Busca_Binária\bin\Debug\net8.0\Árvore_de_Busca_Binária.dll
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Árvore_de_Busca_Binária\bin\Debug\net8.0\Árvore_de_Busca_Binária.pdb
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Árvore_de_Busca_Binária\obj\Debug\net8.0\Árvore_de_Busca_Binária.GeneratedMSBuildEditorConfig.editorconfig
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Árvore_de_Busca_Binária\obj\Debug\net8.0\Árvore_de_Busca_Binária.AssemblyInfoInputs.cache
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Árvore_de_Busca_Binária\obj\Debug\net8.0\Árvore_de_Busca_Binária.AssemblyInfo.cs
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Árvore_de_Busca_Binária\obj\Debug\net8.0\Árvore_de_Busca_Binária.csproj.CoreCompileInputs.cache
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Árvore_de_Busca_Binária\obj\Debug\net8.0\Árvore_de_Busca_Binária.sourcelink.json
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Árvore_de_Busca_Binária\obj\Debug\net8.0\Árvore_de_Busca_Binária.dll
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Árvore_de_Busca_Binária\obj\Debug\net8.0\refint\Árvore_de_Busca_Binária.dll
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Árvore_de_Busca_Binária\obj\Debug\net8.0\Árvore_de_Busca_Binária.pdb
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Árvore_de_Busca_Binária\obj\Debug\net8.0\Árvore_de_Busca_Binária.genruntimeconfig.cache
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Árvore_de_Busca_Binária\obj\Debug\net8.0\ref\Árvore_de_Busca_Binária.dll
