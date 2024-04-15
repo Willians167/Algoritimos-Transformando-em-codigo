@@ -1,0 +1,15 @@
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Caminho_mais_Curto_em_Grafos- Dijkstra\bin\Debug\net8.0\Caminho_mais_Curto_em_Grafos- Dijkstra.exe
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Caminho_mais_Curto_em_Grafos- Dijkstra\bin\Debug\net8.0\Caminho_mais_Curto_em_Grafos- Dijkstra.deps.json
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Caminho_mais_Curto_em_Grafos- Dijkstra\bin\Debug\net8.0\Caminho_mais_Curto_em_Grafos- Dijkstra.runtimeconfig.json
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Caminho_mais_Curto_em_Grafos- Dijkstra\bin\Debug\net8.0\Caminho_mais_Curto_em_Grafos- Dijkstra.dll
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Caminho_mais_Curto_em_Grafos- Dijkstra\bin\Debug\net8.0\Caminho_mais_Curto_em_Grafos- Dijkstra.pdb
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Caminho_mais_Curto_em_Grafos- Dijkstra\obj\Debug\net8.0\Caminho_mais_Curto_em_Grafos- Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Caminho_mais_Curto_em_Grafos- Dijkstra\obj\Debug\net8.0\Caminho_mais_Curto_em_Grafos- Dijkstra.AssemblyInfoInputs.cache
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Caminho_mais_Curto_em_Grafos- Dijkstra\obj\Debug\net8.0\Caminho_mais_Curto_em_Grafos- Dijkstra.AssemblyInfo.cs
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Caminho_mais_Curto_em_Grafos- Dijkstra\obj\Debug\net8.0\Caminho_mais_Curto_em_Grafos- Dijkstra.csproj.CoreCompileInputs.cache
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Caminho_mais_Curto_em_Grafos- Dijkstra\obj\Debug\net8.0\Caminho_mais_Curto_em_Grafos- Dijkstra.sourcelink.json
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Caminho_mais_Curto_em_Grafos- Dijkstra\obj\Debug\net8.0\Caminho_mais_Curto_em_Grafos- Dijkstra.dll
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Caminho_mais_Curto_em_Grafos- Dijkstra\obj\Debug\net8.0\refint\Caminho_mais_Curto_em_Grafos- Dijkstra.dll
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Caminho_mais_Curto_em_Grafos- Dijkstra\obj\Debug\net8.0\Caminho_mais_Curto_em_Grafos- Dijkstra.pdb
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Caminho_mais_Curto_em_Grafos- Dijkstra\obj\Debug\net8.0\Caminho_mais_Curto_em_Grafos- Dijkstra.genruntimeconfig.cache
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Caminho_mais_Curto_em_Grafos- Dijkstra\obj\Debug\net8.0\ref\Caminho_mais_Curto_em_Grafos- Dijkstra.dll

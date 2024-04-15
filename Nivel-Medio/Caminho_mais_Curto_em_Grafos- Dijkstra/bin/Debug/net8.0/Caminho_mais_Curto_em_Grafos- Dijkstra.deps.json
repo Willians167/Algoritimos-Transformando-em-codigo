@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Caminho_mais_Curto_em_Grafos- Dijkstra/1.0.0": {
+        "runtime": {
+          "Caminho_mais_Curto_em_Grafos- Dijkstra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Caminho_mais_Curto_em_Grafos- Dijkstra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
