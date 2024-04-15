@@ -1,0 +1,15 @@
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Ordenação_Merge_Sort\bin\Debug\net8.0\Ordenação_Merge_Sort.exe
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Ordenação_Merge_Sort\bin\Debug\net8.0\Ordenação_Merge_Sort.deps.json
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Ordenação_Merge_Sort\bin\Debug\net8.0\Ordenação_Merge_Sort.runtimeconfig.json
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Ordenação_Merge_Sort\bin\Debug\net8.0\Ordenação_Merge_Sort.dll
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Ordenação_Merge_Sort\bin\Debug\net8.0\Ordenação_Merge_Sort.pdb
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Ordenação_Merge_Sort\obj\Debug\net8.0\Ordenação_Merge_Sort.GeneratedMSBuildEditorConfig.editorconfig
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Ordenação_Merge_Sort\obj\Debug\net8.0\Ordenação_Merge_Sort.AssemblyInfoInputs.cache
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Ordenação_Merge_Sort\obj\Debug\net8.0\Ordenação_Merge_Sort.AssemblyInfo.cs
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Ordenação_Merge_Sort\obj\Debug\net8.0\Ordenação_Merge_Sort.csproj.CoreCompileInputs.cache
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Ordenação_Merge_Sort\obj\Debug\net8.0\Ordenação_Merge_Sort.sourcelink.json
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Ordenação_Merge_Sort\obj\Debug\net8.0\Ordenação_Merge_Sort.dll
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Ordenação_Merge_Sort\obj\Debug\net8.0\refint\Ordenação_Merge_Sort.dll
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Ordenação_Merge_Sort\obj\Debug\net8.0\Ordenação_Merge_Sort.pdb
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Ordenação_Merge_Sort\obj\Debug\net8.0\Ordenação_Merge_Sort.genruntimeconfig.cache
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Nivel-Medio\Ordenação_Merge_Sort\obj\Debug\net8.0\ref\Ordenação_Merge_Sort.dll
