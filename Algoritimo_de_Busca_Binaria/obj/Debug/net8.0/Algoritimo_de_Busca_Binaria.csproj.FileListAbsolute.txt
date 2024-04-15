@@ -1,0 +1,15 @@
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritimo_de_Busca_Binaria\bin\Debug\net8.0\Algoritimo_de_Busca_Binaria.exe
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritimo_de_Busca_Binaria\bin\Debug\net8.0\Algoritimo_de_Busca_Binaria.deps.json
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritimo_de_Busca_Binaria\bin\Debug\net8.0\Algoritimo_de_Busca_Binaria.runtimeconfig.json
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritimo_de_Busca_Binaria\bin\Debug\net8.0\Algoritimo_de_Busca_Binaria.dll
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritimo_de_Busca_Binaria\bin\Debug\net8.0\Algoritimo_de_Busca_Binaria.pdb
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritimo_de_Busca_Binaria\obj\Debug\net8.0\Algoritimo_de_Busca_Binaria.GeneratedMSBuildEditorConfig.editorconfig
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritimo_de_Busca_Binaria\obj\Debug\net8.0\Algoritimo_de_Busca_Binaria.AssemblyInfoInputs.cache
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritimo_de_Busca_Binaria\obj\Debug\net8.0\Algoritimo_de_Busca_Binaria.AssemblyInfo.cs
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritimo_de_Busca_Binaria\obj\Debug\net8.0\Algoritimo_de_Busca_Binaria.csproj.CoreCompileInputs.cache
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritimo_de_Busca_Binaria\obj\Debug\net8.0\Algoritimo_de_Busca_Binaria.sourcelink.json
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritimo_de_Busca_Binaria\obj\Debug\net8.0\Algoritimo_de_Busca_Binaria.dll
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritimo_de_Busca_Binaria\obj\Debug\net8.0\refint\Algoritimo_de_Busca_Binaria.dll
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritimo_de_Busca_Binaria\obj\Debug\net8.0\Algoritimo_de_Busca_Binaria.pdb
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritimo_de_Busca_Binaria\obj\Debug\net8.0\Algoritimo_de_Busca_Binaria.genruntimeconfig.cache
+A:\Algoritimos\Algoritimos-Transformando-em-codigo\Algoritimo_de_Busca_Binaria\obj\Debug\net8.0\ref\Algoritimo_de_Busca_Binaria.dll

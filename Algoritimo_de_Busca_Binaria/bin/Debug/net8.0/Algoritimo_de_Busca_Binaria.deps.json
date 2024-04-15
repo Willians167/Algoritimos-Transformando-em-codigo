@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Algoritimo_de_Busca_Binaria/1.0.0": {
+        "runtime": {
+          "Algoritimo_de_Busca_Binaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algoritimo_de_Busca_Binaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
