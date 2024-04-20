@@ -2,11 +2,11 @@
 
 class Program
 {
-    // Função para realizar a busca binária em um array ordenado
+    
     static int BuscaBinaria(int[] arr, int alvo)
     {
-        int esquerda = 0; // Índice inicial da sublista
-        int direita = arr.Length - 1; // Índice final da sublista
+        int esquerda = 0; 
+        int direita = arr.Length - 1; 
 
         while (esquerda <= direita)
         {
@@ -28,7 +28,7 @@ class Program
         return -1;
     }
 
-    // Método Main para testar a busca binária
+
     static void Main(string[] args)
     {
         int[] arr = { 2, 3, 4, 10, 40 };

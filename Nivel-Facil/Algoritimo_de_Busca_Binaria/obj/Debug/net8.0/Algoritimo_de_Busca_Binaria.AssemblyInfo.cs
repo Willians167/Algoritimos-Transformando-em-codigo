@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Algoritimo_de_Busca_Binaria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8ca94170b9e8fb1da9447b38419e82899569bce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0393ab2426a815ebd344d17f4043f0ba1316a8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Algoritimo_de_Busca_Binaria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Algoritimo_de_Busca_Binaria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
